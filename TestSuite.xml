@@ -1,0 +1,12 @@
+<suite name="TestSuite">
+<test name= "TestTest" preserve-order = "true">
+	<classes>
+		<class name = "com.techbeamers.testing.SeleniumWebdriverTest">
+			<method>
+				<include name = "MyFirstTestNGTestCase" />
+				<include name = "MySecondTestNGTestCase" />
+			</method>
+		</class>
+	</classes>
+</test>
+</suite>

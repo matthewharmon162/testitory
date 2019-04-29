@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-04-25T16:20:49Z" name="TestSuite" finished-at="2019-04-25T16:21:05Z" duration-ms="16141">
+    <groups>
+    </groups>
+    <test started-at="2019-04-25T16:20:49Z" name="TestTest" finished-at="2019-04-25T16:21:05Z" duration-ms="16141">
+      <class name="com.techbeamers.testing.SeleniumWebdriverTest">
+        <test-method is-config="true" signature="startChrome()[pri:0, instance:com.techbeamers.testing.SeleniumWebdriverTest@6ad82709]" started-at="2019-04-25T16:20:49Z" name="startChrome" finished-at="2019-04-25T16:20:54Z" duration-ms="5087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startChrome -->
+        <test-method signature="MyFirstTestNGTestCase()[pri:0, instance:com.techbeamers.testing.SeleniumWebdriverTest@6ad82709]" started-at="2019-04-25T16:20:54Z" name="MyFirstTestNGTestCase" finished-at="2019-04-25T16:20:57Z" duration-ms="2812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyFirstTestNGTestCase -->
+        <test-method is-config="true" signature="cleanupProc()[pri:0, instance:com.techbeamers.testing.SeleniumWebdriverTest@6ad82709]" started-at="2019-04-25T16:20:57Z" name="cleanupProc" finished-at="2019-04-25T16:20:58Z" duration-ms="772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanupProc -->
+        <test-method is-config="true" signature="startChrome()[pri:0, instance:com.techbeamers.testing.SeleniumWebdriverTest@6ad82709]" started-at="2019-04-25T16:20:58Z" name="startChrome" finished-at="2019-04-25T16:21:02Z" duration-ms="4125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startChrome -->
+        <test-method signature="MySecondTestNGTestCase()[pri:0, instance:com.techbeamers.testing.SeleniumWebdriverTest@6ad82709]" started-at="2019-04-25T16:21:02Z" name="MySecondTestNGTestCase" finished-at="2019-04-25T16:21:05Z" duration-ms="2567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MySecondTestNGTestCase -->
+        <test-method is-config="true" signature="cleanupProc()[pri:0, instance:com.techbeamers.testing.SeleniumWebdriverTest@6ad82709]" started-at="2019-04-25T16:21:05Z" name="cleanupProc" finished-at="2019-04-25T16:21:05Z" duration-ms="734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanupProc -->
+      </class> <!-- com.techbeamers.testing.SeleniumWebdriverTest -->
+    </test> <!-- TestTest -->
+  </suite> <!-- TestSuite -->
+</testng-results>
